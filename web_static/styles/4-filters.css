@@ -18,3 +18,7 @@ button {
     margin-top: 11px;
     margin-right: 30px;
 }
+
+button:hover {
+    opacity: 90%;
+}
